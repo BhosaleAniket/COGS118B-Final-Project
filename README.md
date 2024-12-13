@@ -2,7 +2,7 @@
 
 This project aims to explore the application of Spectral Clustering methods to perform Optical Character Recognition (OCR).
 
-To achieve the aformentioned problem, we created a model architecture that comined both unsupervised and supervised learning strategies.
+To achieve the aforementioned problem, we created a model architecture that comined both unsupervised and supervised learning strategies.
 
 The unsupervised stage consists of spectral clustering pre-processing combined with a feature transformation. 
 
