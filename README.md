@@ -8,6 +8,8 @@ The unsupervised stage consists of spectral clustering pre-processing combined w
 
 The supervised stage consists of a SVM classifier trained with a RBF kernel.  
 
+Video Presentation: https://drive.google.com/file/d/1vG-CWUrNKtKxGbSsuEtq8N6taVmX2t5y/view?usp=sharing
+
 
 ## Datasets
 The following datasets were used during the development and training of this project.
